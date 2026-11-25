@@ -86,4 +86,4 @@ If you find the plugin useful, consider supporting the original author:
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="100">](https://www.buymeacoffee.com/xpgo)
 
-Licensed under MIT.
+Released under the [MIT License](LICENSE).
