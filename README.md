@@ -58,9 +58,9 @@ You can control style, column count, image prefix, target folder, notes-only mod
 
 ## Install
 
-**Manual:** download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/ShoeburR/Obsidian-Folder-Note-Plugin1.15.1/releases/latest) into `<your vault>/.obsidian/plugins/folder-note-plugin/`, then enable **Folder Note** under Settings → Community plugins.
+**Manual:** download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/ShoeburR/obsidian-folder-note-revived/releases/latest) into `<your vault>/.obsidian/plugins/folder-note-plugin/`, then enable **Folder Note** under Settings → Community plugins.
 
-**BRAT:** add `ShoeburR/Obsidian-Folder-Note-Plugin1.15.1` with the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin to receive updates automatically.
+**BRAT:** add `ShoeburR/obsidian-folder-note-revived` with the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin to receive updates automatically.
 
 > [!NOTE]
 > The **Folder Note** listing in Obsidian's community plugin browser is the original, unmaintained version. Install from this repo instead.
