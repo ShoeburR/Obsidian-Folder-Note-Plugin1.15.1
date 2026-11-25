@@ -80,7 +80,7 @@ Pushing a version tag (e.g. `0.8.1`) runs the release workflow, which creates a 
 ## Credits
 
 - **Original plugin:** [xpgo](https://github.com/xpgo). All features and design are theirs.
-- **Modernization (v0.8.0):** vibe-coded with [Claude](https://claude.ai) by Anthropic, at the request of [ShoeburR](https://github.com/ShoeburR).
+- **Modernization (v0.8.0):** vibe-coded with [Claude](https://claude.ai) by Anthropic, at the request of [ShoeburR](https://github.com/ShoeburR) ([LinkedIn](https://www.linkedin.com/in/shoebur/)).
 
 If you find the plugin useful, consider supporting the original author:
 
